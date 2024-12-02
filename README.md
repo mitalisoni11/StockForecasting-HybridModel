@@ -19,10 +19,10 @@ Workflow
 - Assessed model accuracy using metrics such as Mean Squared Error (MSE).
 
 ## Tools and Technologies
-Python: Core programming language for data analysis and modeling.
-TensorFlow & Keras: Frameworks for building and training LSTM networks.
-Scikit-learn: For implementing Linear Regression and evaluating model performance.
-Pandas & NumPy: For data preprocessing and manipulation.
-Matplotlib: For data visualization.
+- Python
+- TensorFlow & Keras
+- Scikit-learn
+- Pandas & NumPy
+- Matplotlib
 
 
